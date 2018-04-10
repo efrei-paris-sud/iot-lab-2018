@@ -47,7 +47,7 @@ Measures read from sensors are placed into a global queue (`sensor_readings_queu
 * All electronic components (ESPs,BMEs) have to be returned to the Efrei reception desk at the command of Massinissa Hamidi. I will bring them back at the end of april.
 
 ## For Institut Galilée students
-* You have until april 22th (23:59) to submit your work;
+* You have until april 22nd (23:59) to submit your work;
 * Your work must include:
    1. A report;
    2. A link to a 4 minutes video (you can upload a video to Youtube in private mode [link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), or any other platform (vimeo, etc.));
