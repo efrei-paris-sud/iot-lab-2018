@@ -47,13 +47,15 @@ Measures read from sensors are placed into a global queue (`sensor_readings_queu
 * All electronic components (ESPs,BMEs) have to be returned to the Efrei reception desk at the command of Massinissa Hamidi. I will bring them back at the end of april.
 
 ## For Institut Galilée students
-* You have until april 20th (23:59) to submit your work;
+* You have until april 22th (23:59) to submit your work;
 * Your work must include:
    1. A report;
    2. A link to a 4 minutes video (you can upload a video to Youtube in private mode [link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), or any other platform (vimeo, etc.));
    3. Source code (or a link to a git repository).
 * Submit a zip archive containing the above listed components to ao@lipn.univ-paris13.fr (carbon-copy hamidi@lipn.univ-paris13.fr);
-* All electronic components (ESPs,BMEs) have to be returned to desk (B309 Institut Galilée) at the command of Massinissa Hamidi or (B305 Institut Galilée) at the command of Aomar Osmani. The deadline being the end of april. 
+* All electronic components (ESPs,BMEs) have to be returned to desk (B309 Institut Galilée) at the command of Massinissa Hamidi or (B305 Institut Galilée) at the command of Aomar Osmani. The deadline being the end of april.
+* Evaluation of the projects will be held either on april 23rd, 24th or 25th. Please consider filling the [framadate survey](https://framadate.org/2rou1NmVMPZcKo3X). Evaluation day will be communicated to you via this README on april 20th;
+* In order to be effective, before the evaluation process each group must be ready, so there will be two classrooms.
 
 # Get involved
 Some protocols, like Multipath-TCP, UDP-Light, are in experimental status and not yet included in LwIP. If you want to be involved in Free Software development for Internet of Things, this constitutes a good starting point.
