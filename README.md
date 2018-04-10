@@ -41,7 +41,19 @@ Add support for 6LowPAN, which is the adaptation layer used to send IPv6 packets
 Measures read from sensors are placed into a global queue (`sensor_readings_queue`), take a look at `transmission.h`, in order to be sent later by the `perform_transmissions` task. The size of the queue being limited, what should you do when it becomes full, when for example, connexion is broken temporarily? One solution is to get rid of old measures, not satisfactory. Another solution is to exploit the capabilities of the ESP32 which provides a virtual file system that allow you to persist data in the flash memory.
 
 # Submission Instructions
-comming soon ...
+## For Efrei students
+* Submissions are open on [Moodle](https://www.myefrei.fr/moodle/login/index.php). All details are there and a message has been sent to everybody;
+* You have until april 15th (23:59) to submit your work;
+* All electronic components (ESPs,BMEs) have to be returned to the Efrei reception desk at the command of Massinissa Hamidi. I will bring them back at the end of april.
+
+## For Institut Galilée students
+* You have until april 20th (23:59) to submit your work;
+* Your work must include:
+   1. A report;
+   2. A link to a 4 minutes video (you can upload a video to Youtube in private mode [link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), or any other platform (vimeo, etc.));
+   3. Source code (or a link to a git repository).
+* Submit a zip archive containing the above listed components to ao@lipn.univ-paris13.fr (carbon-copy hamidi@lipn.univ-paris13.fr);
+* All electronic components (ESPs,BMEs) have to be returned to desk (B309 Institut Galilée) at the command of Massinissa Hamidi or (B305 Institut Galilée) at the command of Aomar Osmani. The deadline being the end of april. 
 
 # Get involved
 Some protocols, like Multipath-TCP, UDP-Light, are in experimental status and not yet included in LwIP. If you want to be involved in Free Software development for Internet of Things, this constitutes a good starting point.
