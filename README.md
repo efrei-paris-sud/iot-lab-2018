@@ -1,6 +1,8 @@
 # IoT-Labs-2018
 IoT labs for Institut Galilée and Efrei students
 
+# <b>Evaluation day will be April, 25th (14h-17h). Evaluation order will be the same as the votes in the [framadate survey](https://framadate.org/2rou1NmVMPZcKo3X). For those who have not already filled the survey, please do so! [here](https://framadate.org/2rou1NmVMPZcKo3X) </b>
+
 # Description
 
 * This project implements a simple collect-transmit schema. An ESP32 will be responsible of collecting measures from one or optionally multiple sensors, then send them to a server, in the same local network.
