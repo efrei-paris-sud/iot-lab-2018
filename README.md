@@ -1,28 +1,6 @@
 # IoT-Labs-2018
 IoT labs for Institut Galilée and Efrei students
 
-## Group 1
-* Nathalie RALIJAONA
-* Armelle RIVIERE
-* Mélanie ROUDE
-
-:wave: **take a look at report #1!**
-
-## Group 2
-* Marc NG KON TIA
-* Kajanan KANDAVEL
-
-:wave: **take a look at report #2!**
-
-## Group 3
-* XiJia Wang
-* ChengSi Liu
-* Shuo CUI
-
-:wave: **take a look at report #3!**
-
-# <b>Evaluation day will be April, 25th (14h-17h). Evaluation order will be the same as the votes in the [framadate survey](https://framadate.org/2rou1NmVMPZcKo3X). For those who have not already filled the survey, please do so! [here](https://framadate.org/2rou1NmVMPZcKo3X) </b>
-
 # Description
 
 * This project implements a simple collect-transmit schema. An ESP32 will be responsible of collecting measures from one or optionally multiple sensors, then send them to a server, in the same local network.
@@ -81,3 +59,27 @@ Measures read from sensors are placed into a global queue (`sensor_readings_queu
 
 # Get involved
 Some protocols, like Multipath-TCP, UDP-Light, are in experimental status and not yet included in LwIP. If you want to be involved in Free Software development for Internet of Things, this constitutes a good starting point.
+
+
+# Announcement
+<b>Evaluation day will be April, 25th (14h-17h). Evaluation order will be the same as the votes in the [framadate survey](https://framadate.org/2rou1NmVMPZcKo3X). For those who have not already filled the survey, please do so! [here](https://framadate.org/2rou1NmVMPZcKo3X) </b>
+
+## Group 1
+* Nathalie RALIJAONA
+* Armelle RIVIERE
+* Mélanie ROUDE
+
+:wave: **take a look at report #1!**
+
+## Group 2
+* Marc NG KON TIA
+* Kajanan KANDAVEL
+
+:wave: **take a look at report #2!**
+
+## Group 3
+* XiJia Wang
+* ChengSi Liu
+* Shuo CUI
+
+:wave: **take a look at report #3!**
