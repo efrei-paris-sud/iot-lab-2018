@@ -14,6 +14,13 @@ IoT labs for Institut Galilée and Efrei students
 
 :wave: **take a look at report #2!**
 
+## Group 3
+* XiJia Wang
+* ChengSi Liu
+* Shuo CUI
+
+:wave: **take a look at report #3!**
+
 # <b>Evaluation day will be April, 25th (14h-17h). Evaluation order will be the same as the votes in the [framadate survey](https://framadate.org/2rou1NmVMPZcKo3X). For those who have not already filled the survey, please do so! [here](https://framadate.org/2rou1NmVMPZcKo3X) </b>
 
 # Description
