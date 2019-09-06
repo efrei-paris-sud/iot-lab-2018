@@ -1,13 +1,18 @@
 # IoT-Labs-2018
 IoT labs for Institut Galilée and Efrei students
 
-## Group 10
+## Group 1
 * Nathalie RALIJAONA
 * Armelle RIVIERE
 * Mélanie ROUDE
 
-:wave: **take a look at report #10!**
+:wave: **take a look at report #1!**
 
+## Group 2
+* Marc NG KON TIA
+* Kajanan KANDAVEL
+
+:wave: **take a look at report #2!**
 
 # <b>Evaluation day will be April, 25th (14h-17h). Evaluation order will be the same as the votes in the [framadate survey](https://framadate.org/2rou1NmVMPZcKo3X). For those who have not already filled the survey, please do so! [here](https://framadate.org/2rou1NmVMPZcKo3X) </b>
 
