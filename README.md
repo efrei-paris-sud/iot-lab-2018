@@ -1,11 +1,12 @@
-# IoT-Labs-2018 (Group 10)
+# IoT-Labs-2018
 IoT labs for Institut Galilée and Efrei students
 
+## Group 10
 * Nathalie RALIJAONA
 * Armelle RIVIERE
 * Mélanie ROUDE
 
-:wave: **take a look at the report!**
+:wave: **take a look at report #10!**
 
 
 # <b>Evaluation day will be April, 25th (14h-17h). Evaluation order will be the same as the votes in the [framadate survey](https://framadate.org/2rou1NmVMPZcKo3X). For those who have not already filled the survey, please do so! [here](https://framadate.org/2rou1NmVMPZcKo3X) </b>
